@@ -16,6 +16,7 @@ public class AudiTest {
 		
 		driver.get("https://www.audi.in/en/");
 		Reporter.log("webpage is launched",true);
+		Reporter.log("webpage is launched",true);
 	}
 
 }
